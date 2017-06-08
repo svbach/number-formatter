@@ -1,4 +1,4 @@
-Number Formatter [![Build Status](https://travis-ci.org/svbach/number-formatter.svg?branch=master)](https://travis-ci.org/svbach/number-formatter)
+Number Formatter [![Build Status](https://travis-ci.org/svbach/number-formatter.svg?branch=master)](https://travis-ci.org/svbach/number-formatter) [![Coverage Status](https://coveralls.io/repos/github/svbach/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/svbach/number-formatter?branch=master)
 =========
 
 A small library that adds commas to numbers
