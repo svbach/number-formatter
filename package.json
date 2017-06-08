@@ -1,0 +1,26 @@
+{
+  "engine": {
+    "node": ">=4.2.4"
+  },
+  "name": "@bkuoch/number-formatter",
+  "version": "1.0.0",
+  "description": "number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svbach/number-formatter.git"
+  },
+  "author": "Bach Kuoch <bkuoch@gmail.com> (http://www.imdb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svbach/number-formatter/issues"
+  },
+  "homepage": "https://github.com/svbach/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
